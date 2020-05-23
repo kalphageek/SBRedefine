@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d668a2eb-3628-4fb9-b5ab-af248abc87f0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/kalpha-getting-started.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/src/main/java/me/kalpha/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/src/main/java/me/kalpha/runner/LearningmanRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kalpha-getting-started/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kalpha/learningman/Learningman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kalpha/learningman/LearningmanConfiguration.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/kalpha/learningman/LearningmanProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/spring.factories" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1YqGZ1ruEAkA6CaE5h8jL7185MW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../SBRedefine" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="me.kalpha.learningman" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../SBRedefine" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d668a2eb-3628-4fb9-b5ab-af248abc87f0" name="Default Changelist" comment="" />
+      <created>1583662762363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583662762363</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="27" width="1024" height="741" key="#Project_Structure" timestamp="1590227946098">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="167" y="27" width="1024" height="741" key="#Project_Structure/0.27.1368.741@0.27.1368.741" timestamp="1590227946098" />
+    <state x="608" y="150" width="527" height="633" key="#com.intellij.ide.util.MemberChooser" timestamp="1583663803891">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="608" y="150" width="527" height="633" key="#com.intellij.ide.util.MemberChooser/0.27.1600.873@0.27.1600.873" timestamp="1583663803891" />
+    <state x="447" y="261" width="572" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1590225999760">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="447" y="261" width="572" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.27.1368.741@0.27.1368.741" timestamp="1590225999760" />
+    <state x="461" y="144" width="424" height="522" key="FileChooserDialogImpl" timestamp="1590274944304">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="461" y="144" width="424" height="522" key="FileChooserDialogImpl/0.27.1368.741@0.27.1368.741" timestamp="1590274944304" />
+    <state width="1320" height="171" key="GridCell.Tab.0.bottom" timestamp="1590230136138">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.bottom/0.27.1368.741@0.27.1368.741" timestamp="1590230136138" />
+    <state width="1552" height="215" key="GridCell.Tab.0.bottom/0.27.1600.873@0.27.1600.873" timestamp="1583678204503" />
+    <state width="1320" height="171" key="GridCell.Tab.0.center" timestamp="1590230136137">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.center/0.27.1368.741@0.27.1368.741" timestamp="1590230136137" />
+    <state width="1552" height="215" key="GridCell.Tab.0.center/0.27.1600.873@0.27.1600.873" timestamp="1583678204502" />
+    <state width="1320" height="171" key="GridCell.Tab.0.left" timestamp="1590230136136">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.left/0.27.1368.741@0.27.1368.741" timestamp="1590230136136" />
+    <state width="1552" height="215" key="GridCell.Tab.0.left/0.27.1600.873@0.27.1600.873" timestamp="1583678204502" />
+    <state width="1320" height="171" key="GridCell.Tab.0.right" timestamp="1590230136137">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state width="1320" height="171" key="GridCell.Tab.0.right/0.27.1368.741@0.27.1368.741" timestamp="1590230136137" />
+    <state width="1552" height="215" key="GridCell.Tab.0.right/0.27.1600.873@0.27.1600.873" timestamp="1583678204503" />
+    <state x="466" y="291" key="com.intellij.ide.util.TipDialog" timestamp="1583662767951">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="466" y="291" key="com.intellij.ide.util.TipDialog/0.27.1600.873@0.27.1600.873" timestamp="1583662767951" />
+    <state x="122" y="122" width="1345" height="690" key="new project wizard" timestamp="1583663216933">
+      <screen x="0" y="27" width="1600" height="873" />
+    </state>
+    <state x="122" y="122" width="1345" height="690" key="new project wizard/0.27.1600.873@0.27.1600.873" timestamp="1583663216933" />
+    <state x="347" y="89" key="search.everywhere.popup" timestamp="1590225719724">
+      <screen x="0" y="27" width="1368" height="741" />
+    </state>
+    <state x="347" y="89" key="search.everywhere.popup/0.27.1368.741@0.27.1368.741" timestamp="1590225719724" />
+  </component>
+</project>

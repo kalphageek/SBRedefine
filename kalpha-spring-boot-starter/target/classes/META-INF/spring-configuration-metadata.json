@@ -1,0 +1,23 @@
+{
+  "groups": [
+    {
+      "name": "learningman",
+      "type": "me.kalpha.learningman.LearningmanProperties",
+      "sourceType": "me.kalpha.learningman.LearningmanProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "learningman.how-long",
+      "type": "java.lang.Integer",
+      "sourceType": "me.kalpha.learningman.LearningmanProperties",
+      "defaultValue": 0
+    },
+    {
+      "name": "learningman.name",
+      "type": "java.lang.String",
+      "sourceType": "me.kalpha.learningman.LearningmanProperties"
+    }
+  ],
+  "hints": []
+}
