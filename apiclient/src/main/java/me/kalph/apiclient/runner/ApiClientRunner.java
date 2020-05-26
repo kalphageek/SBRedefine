@@ -45,7 +45,7 @@ public class ApiClientRunner implements ApplicationRunner {
         StopWatch stopWatch = new StopWatch();
         stopWatch.start();
 
-        Mono<String> helloMono = webClient.get().uri("http://localhost:8080/hello")
+        Mono<String> helloMono = webClient.get().uri("/hello")
                 .retrieve()
                 .bodyToMono(String.class);
         helloMono.subscribe(s -> {
